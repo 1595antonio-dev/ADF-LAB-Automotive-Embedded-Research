@@ -1,0 +1,115 @@
+{
+  "status": "STAGING_ONLY_NOT_UPLOADED",
+  "review_note": "Contains original project software and anonymized demo state; no private ECU firmware or raw field measurements.",
+  "file_count": 27,
+  "files": {
+    ".gitignore": {
+      "sha256": "8d00afed045a2c2491a7ecd84c29b16a906e9192b46b561aee382f5a2e5e9e3e",
+      "bytes": 364
+    },
+    "docs/ALIGNERR_APPLICATION.md": {
+      "sha256": "0f59a85e7f560732da3d70592babfd13e3269cef6572251b684b9bff47712fe0",
+      "bytes": 1770
+    },
+    "docs/ARCHITECTURE.md": {
+      "sha256": "cd3a7bf25703f8ea3afb072fa2e2e5d3102687f1c261a5c5ed5b5819c51aa1b3",
+      "bytes": 1228
+    },
+    "docs/ENGINEERING_DECISIONS.md": {
+      "sha256": "70bf00a02fae08b002ca9a21ea4c0a8fa9a8e9c58728a81a7d59164010992387",
+      "bytes": 1237
+    },
+    "docs/PUBLICATION_CHECKLIST.md": {
+      "sha256": "681b57019ba0e7775867d68d455d999d23c53130c91146d0f099d34d8a10e067",
+      "bytes": 650
+    },
+    "docs/VALIDATION_20261110.md": {
+      "sha256": "ad7dddd3c4d505537d9a1a7b9fc3e92247875fd6c7d462a6638d8306ff9746d5",
+      "bytes": 1135
+    },
+    "README.es.md": {
+      "sha256": "23c88496724f6149363d082f4fa0fcc695f362375b0e5c6fb4953c1ea56c1be8",
+      "bytes": 1687
+    },
+    "README.md": {
+      "sha256": "27dff7fed6544c85132fd89658c73e23beb76cb21acce6e86a816a20c20b4783",
+      "bytes": 2997
+    },
+    "site/assets/app.js": {
+      "sha256": "87cfc11d5f7c9c2c53fe7a5f76ac6264fcaaa93fc53b560ceb60c18c8eb9e882",
+      "bytes": 28675
+    },
+    "site/assets/estilos.css": {
+      "sha256": "bb68f4ef6a1023ae6db7e75e13a113fa15732a9a9a36402d130892a13fb5863e",
+      "bytes": 23266
+    },
+    "site/assets/seed.js": {
+      "sha256": "2587e4fd013137fe3b26fb88ad45afdabb1b8bb8512c3d00815bcb2030dc4fa3",
+      "bytes": 28478
+    },
+    "site/backups/.gitkeep": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "site/datos/estado.json": {
+      "sha256": "bf6f40f36a03dc57410a698facf8a8994e558850013a91f94e9ed63ba3814843",
+      "bytes": 34968
+    },
+    "site/evidencias/.gitkeep": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "site/ftdi_banco.py": {
+      "sha256": "cbf6fa554ea50e5aacf2d175785e4a4f979a6ca484398d6d320cb41939abbfd8",
+      "bytes": 4545
+    },
+    "site/index.html": {
+      "sha256": "3757b053d1434325435a3e08e8db39b00b181709031c3c1d8bd601830f138ebd",
+      "bytes": 17003
+    },
+    "site/INICIAR_SITE.bat": {
+      "sha256": "a291e4cc559b59a625d6c90829814888b278788d767d6a0b620fa96b3d6e2df4",
+      "bytes": 425
+    },
+    "site/INSTALAR_PYSERIAL.bat": {
+      "sha256": "3a96d929be756000be2036bbdf0820fbcb8792bd6d994e1b75984ac86472815f",
+      "bytes": 60
+    },
+    "site/servidor_local.py": {
+      "sha256": "5e0fe313061e64bee1cd32bae3d2d8ca3f2935521d716f13d43b70162a217148",
+      "bytes": 7567
+    },
+    "tests/test_local_http.py": {
+      "sha256": "3d34acbe05f0b63d77f31878eaa9c4a29f65b786b5433172da66530aa4c02573",
+      "bytes": 1504
+    },
+    "tests/test_public_package.py": {
+      "sha256": "6048bf0e20e2af7e0c9fb782944d16f58f7867e7b04176e1f5f603fe7dd4a021",
+      "bytes": 2218
+    },
+    "work/build_release_core_20261102.py": {
+      "sha256": "8d5d42e2947657508587e195ddf8efea339146d0868599353deb51bc5fe2493d",
+      "bytes": 5155
+    },
+    "work/pops_event_ticks_reference_20261102.py": {
+      "sha256": "4bbac8c0e61c2cfad13a4f2c50358235fdf4f4cf2f8ef0c0237d1c805d095766",
+      "bytes": 3052
+    },
+    "work/pops_indicator_state_reference_20261109.py": {
+      "sha256": "483a1de36972192b28a6ee471c96000a5864b3542419f62428078272afdd2c36",
+      "bytes": 4781
+    },
+    "work/test_pops_event_ticks_reference_20261102.py": {
+      "sha256": "b5aab898ba9ac5f9e2cd11be83d8c3a6b25cc61290740a8f885115efc5c804f8",
+      "bytes": 5220
+    },
+    "work/test_pops_indicator_state_reference_20261109.py": {
+      "sha256": "6c904a5d7497b6f325dc831fb8545ef910fc7d6fca361f2d1898a82de2c6aa1d",
+      "bytes": 2522
+    },
+    "work/test_release_core_20261102.py": {
+      "sha256": "da6cea083151c279072d3b0b1fa057b315edce1982752c8a415293e63616efad",
+      "bytes": 8030
+    }
+  }
+}
