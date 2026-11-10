@@ -8,8 +8,8 @@
       "bytes": 364
     },
     "docs/ALIGNERR_APPLICATION.md": {
-      "sha256": "0f59a85e7f560732da3d70592babfd13e3269cef6572251b684b9bff47712fe0",
-      "bytes": 1770
+      "sha256": "debeddd8d7815279273e4f5deb908387373d0d8da8722443029d3934724aefd5",
+      "bytes": 1796
     },
     "docs/ARCHITECTURE.md": {
       "sha256": "cd3a7bf25703f8ea3afb072fa2e2e5d3102687f1c261a5c5ed5b5819c51aa1b3",
@@ -20,20 +20,20 @@
       "bytes": 1237
     },
     "docs/PUBLICATION_CHECKLIST.md": {
-      "sha256": "681b57019ba0e7775867d68d455d999d23c53130c91146d0f099d34d8a10e067",
-      "bytes": 650
+      "sha256": "4a8226ff0cd8e478a814518f9d73ae1782e05413ac628e6ba77cbaff21013f39",
+      "bytes": 816
     },
     "docs/VALIDATION_20261110.md": {
       "sha256": "ad7dddd3c4d505537d9a1a7b9fc3e92247875fd6c7d462a6638d8306ff9746d5",
       "bytes": 1135
     },
     "README.es.md": {
-      "sha256": "23c88496724f6149363d082f4fa0fcc695f362375b0e5c6fb4953c1ea56c1be8",
-      "bytes": 1687
+      "sha256": "3a56899b00c4c7e63d2617e785c73118d759adf716a32d5043ed673c3693d175",
+      "bytes": 1676
     },
     "README.md": {
-      "sha256": "27dff7fed6544c85132fd89658c73e23beb76cb21acce6e86a816a20c20b4783",
-      "bytes": 2997
+      "sha256": "aa6ff1fce6b496dd904a43c52b8d2aaa0a2eb0ff2831867927bada3cb38537fc",
+      "bytes": 3065
     },
     "site/assets/app.js": {
       "sha256": "87cfc11d5f7c9c2c53fe7a5f76ac6264fcaaa93fc53b560ceb60c18c8eb9e882",

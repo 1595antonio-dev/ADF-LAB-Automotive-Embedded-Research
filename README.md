@@ -46,4 +46,4 @@ I evaluate AI-generated or AI-assisted changes through explicit behavior contrac
 
 ## Publication and ownership
 
-This folder is a prepared source snapshot, not a published GitHub repository. No Git history has been fabricated. Before publication, the owner must confirm authorship and permission to distribute the selected code and select repository visibility. Copyright remains with the owner; no open-source license is granted by this snapshot.
+This public repository is the selected, anonymized portfolio snapshot. Its Git history starts with an authentic initial commit; no earlier history is fabricated. Proprietary firmware and private diagnostic evidence remain outside the repository. Copyright remains with the project owner; no open-source license is granted in this snapshot. Review distribution rights before adding new third-party code.
